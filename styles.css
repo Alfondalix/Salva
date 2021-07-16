@@ -81,7 +81,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: black;
+  background-color: #fff;
 }
 /* Custom Branding */
 a#dapagetitle,
@@ -96,5 +96,5 @@ a#pagetitle {
   height: 40px;
 }
 .hslNavLogoImage{
-  background-image: src('https://impulsoradeasfaltos.com/wp-content/uploads/2020/03/jaguar_logo-2.jpg');
+  background-image: src('./logo.png');
 }
