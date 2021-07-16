@@ -95,3 +95,6 @@ a#pagetitle {
   width: 242px;
   height: 40px;
 }
+.hslNavLogoImage{
+  background-image: src('https://impulsoradeasfaltos.com/wp-content/uploads/2020/03/jaguar_logo-2.jpg');
+}
