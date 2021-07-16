@@ -81,7 +81,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #e0e0e0;
 }
 /* Custom Branding */
 a#dapagetitle,
@@ -95,5 +95,5 @@ a#pagetitle {
   height: 40px;
 }
 .hslNavLogoImage {
-  background-image: src('./logo.png') !important;
+  background-image: url('./logo.png') !important;
 }
