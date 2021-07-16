@@ -86,7 +86,7 @@ body {
 /* Custom Branding */
 a#dapagetitle,
 a#pagetitle {
-  background-image: src('./logo') !important;
+  background-image: url('./logo.png') !important;
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 0;
@@ -94,6 +94,6 @@ a#pagetitle {
   width: 242px;
   height: 40px;
 }
-.hslNavLogoImage{
-  background-image: src('./logo.png')!important;
+.hslNavLogoImage {
+  background-image: src('./logo.png') !important;
 }
