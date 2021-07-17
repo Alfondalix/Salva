@@ -94,13 +94,16 @@ a#pagetitle {
   width: 242px;
   height: 40px;
 }
-.hslNavLogoImage {
-  background-image: src('./logo.png') !important;
+
+#hslNav .hslNavLogoImage {
+  margin-left: 5px;
 }
+
 nav {
   height: 17vh;
 }
 
-.hslNavContainer {
-  height: 17vh;
+img .hslNavLogoImage {
+  width: 200px;
+  background-image: url('http://probiar.com.ar/images/logo.png');
 }
