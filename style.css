@@ -119,11 +119,11 @@ nav {
 }
 
 img .hslNavLogoImage {
-  display: none;
+  display: none !important;
 }
 
 img .hslNavLogoImage::after {
-  display: none;
+  display: none !important;
   width: 200px;
   background-image: url('://probiar.com.ar/images/logo.png');
 }
