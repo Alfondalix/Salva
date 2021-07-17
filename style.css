@@ -104,6 +104,10 @@ body {
   height: 100%;
 }
 
+* img {
+  display: none !important;
+}
+
 .ads {
   background-image: url('http://probiar.com.ar/images/logo.png');
   position: absolute;
