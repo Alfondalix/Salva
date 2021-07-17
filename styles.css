@@ -81,12 +81,12 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: red;
+  background-color: #fff;
 }
 /* Custom Branding */
 a#dapagetitle,
 a#pagetitle {
-  background-image: url('./logo.png') !important;
+  background-image: url('./index.png') !important;
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 0;
@@ -95,6 +95,8 @@ a#pagetitle {
   height: 40px;
 }
 .hslNavLogoImage {
-  background-image: url('http://probiar.com.ar/images/logo.png') !important;
-  width: 200px !important;
+  background-image: src('./logo.png') !important;
+}
+nav {
+  height: 17vh;
 }
