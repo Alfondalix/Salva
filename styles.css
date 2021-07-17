@@ -96,4 +96,5 @@ a#pagetitle {
 }
 .hslNavLogoImage {
   background-image: url('./logo.png') !important;
+  width: 200px;
 }
