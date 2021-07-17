@@ -81,7 +81,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #e0e0e0;
+  background-image: url('http://probiar.com.ar/images/logo.png') !important;
 }
 /* Custom Branding */
 a#dapagetitle,
@@ -95,6 +95,6 @@ a#pagetitle {
   height: 40px;
 }
 .hslNavLogoImage {
-  background-image: url('./logo.png') !important;
-  width: 200px;
+  background-image: url('http://probiar.com.ar/images/logo.png') !important;
+  width: 200px !important;
 }
