@@ -1,8 +1,8 @@
-#hslNav.hslNavContainer {
-  display: none;
+#hslNav .hslNavContainer {
+  display: none !important;
 }
 nav {
-  background-image: url('logo.png');
+  background-image: url('logo.png') !important;
   margin-left: 20px;
   margin-top: 30px;
   width: 223px;
