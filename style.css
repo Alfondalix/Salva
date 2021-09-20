@@ -9,6 +9,7 @@ nav {
   height: 54px;
 }
 .da-review-action, .da-review-action-button {
+  background-image: url('edit-pen.png') !important;
   color: transparent;
   max-height: 32px;
   max-width: 36px;
