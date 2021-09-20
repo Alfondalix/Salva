@@ -23,3 +23,11 @@ nav {
   color: transparent;
   border:none;
 }
+.da-review-action:focus {
+  color: transparent;
+  border:none;
+}
+.da-review-action-button:focus {
+  color: transparent;
+  border:none;
+}
