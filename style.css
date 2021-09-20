@@ -10,7 +10,16 @@ nav {
 }
 .da-review-action, .da-review-action-button {
   background-image: url('edit-pen.png') !important;
+  border:none;
   color: transparent;
   max-height: 32px;
   max-width: 36px;
+}
+.da-review-action:hover {
+  color: transparent;
+  border:none;
+}
+.da-review-action-button:hover {
+  color: transparent;
+  border:none;
 }
