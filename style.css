@@ -8,8 +8,7 @@ nav {
   width: 223px;
   height: 54px;
 }
-
-.btn, .btn-sm btn-success, .da-review-action, .da-review-action-button {
+.da-review-action, .da-review-action-button {
   color: transparent;
   max-height: 32px;
   max-width: 36px;
